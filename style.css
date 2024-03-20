@@ -1,0 +1,99 @@
+.main{
+    height: 500px;
+    width: 530px;
+    background: black;
+    margin: auto;
+    margin-top: 5%;
+    border-radius: 50px;
+
+}
+#result{
+    width: 400px;
+    height: 30px;
+    color: white;
+    background: green;
+    border-radius: 50px;
+    margin: auto;
+}
+#submain{
+    margin-top: 7%;
+}
+h1{
+    margin-top: 10%;
+    text-align: center;
+    color: white;
+}
+.ph{
+    display: flex;
+    justify-content:space-evenly;
+    margin-top: 20px;
+}
+img{
+    border: 2px solid red;
+    height: 130px;
+    width: 150px;
+    border-radius: 50%;
+    
+
+}
+h2{
+    margin-top: 40px;
+    display: flex;
+    color: white;
+    justify-content: space-around;
+}
+.name{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    margin-top: -5%;
+}
+#n1{
+    margin-left:15%;
+}
+#n2{
+    margin-right: 17%;
+}
+.hy{
+    display: flex;
+    justify-content: space-between;
+
+}
+#c_score{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: x-large;
+    margin-left: 10%;
+
+}
+#m_score{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: x-large;
+    margin-right: 10%;
+   
+}
+#ch1,#ch2,#ch3,#ch4,#ch5,#ch6{
+    margin-left: 11px;
+}
+#mh1,#mh2,#mh3,#mh4,#mh5,#mh6{
+    margin-left: 11px;
+}
+input[type="submit"]{
+    width: 200px;
+    height: 35px;
+    color: white;
+    background: rgb(140, 31, 241);
+    margin-left: 45px;
+    justify-content: space-evenly;
+    font-size: larger;
+    text-align: center;
+    border-radius: 50px;
+
+}
+body{
+    background: url("https://static.vecteezy.com/system/resources/thumbnails/032/976/325/small_2x/night-view-of-melbourne-cricket-ground-generative-ai-photo.jpg");
+    background-repeat: cover;
+}
